@@ -7,7 +7,7 @@ int main()
 
     printf("Hello world!\n");
     printf("Lahiru");
-
+    printf("Thumila");
 
 
     return 0;
