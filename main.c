@@ -6,8 +6,8 @@ int main()
 
 
     printf("Hello world!\n");
-    printf("Lahiru");
     printf("Thumila");
+    printf("This is my first project in Github")
 
 
     return 0;
